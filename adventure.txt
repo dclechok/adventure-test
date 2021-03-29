@@ -1,7 +1,6 @@
-# Socrates
+
 ## Joan of Arc
 ### Abraham Lincoln
 
+This is a test to fix merge conflicts.
 
-this is DC Feature Branch.
-trying to figure out how to fix merge conflicts.
